@@ -1,4 +1,7 @@
 # Information System Project
 
-1. [what is Agile Programming?](./Documentation.md/#agile-development)
-2. [Explain in detail about Extreme Programming with Diagrams.](./Documentation.md/#extreme-programming)  
+1. [user story](./Documentation.md/#league of legend user story)
+2. [flowchart.](./Documentation.md/../flowchart%20league.png)
+3. [class diagram of league of legends](./Documentation.md/#class-diagram-of-league-of-legends)
+4. [sequence diagram](./league%20sequence%20diagram.png)
+
