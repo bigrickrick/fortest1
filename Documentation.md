@@ -1,11 +1,14 @@
 # Answers to the Questions in Readme
 
-## Agile Development
+## league of legend user story
 
-> The Agile Software development lifecycle is a structured series of stages which put togethers helps a team to solve problems easily adapt to turbulent environments and deliver working products on time. The lifecycle of agile software development will vary with respect to the methodologies used. For example, Scrum works in teams with smaller frame of time (Short periods of time), whereas Kanban works continuously without with any relevant distinction of roles.  
+>First the game search for 10 players. When the game has found 10 players, each of them select a unique champion. When they all selected there champion the game starts. When a player kills another player, the game will give the killer gold and XP and will start the respawn timer of the dead player. When a player kills a minion, they gain XP and gold. When the respawn, timer has finished the player respawn. If a player reaches a certain amount of XP, they level up and when they have the gold require, they can buy an item. The player can kill the monster in the jungle some of them giving buffs. When a player comes too close to an enemy turret, the turret will start to shoot dealing damage. When a player destroys an enemy turret, they gain gold, and the turret is permanently destroyed. When a nexus is destroyed, the game stops and announces the winner or the game stop if one of the team’s surrenders.
+## flowchart league of legends
+![flowchart](./flowchart%20league.png)
+## class diagram of league of legends
+>this class diagram shows all of the classes that league has
+![class diagram](./league%20class%20diagram.png)
 
-## Extreme Programming
+## sequence diagram
+ ![sequence diargram](./league%20sequence%20diagram.png)
 
-> Extreme Programming is an Agile software development method which helps to improve the efficiency of the developers working on the project.  
-
-![Extreme Programming](./OIP.jpeg)  
